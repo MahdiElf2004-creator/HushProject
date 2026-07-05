@@ -1,15 +1,16 @@
 body{
-background:#111;
-color:white;
-font-family:tahoma;
-display:flex;
-justify-content:center;
-align-items:center;
-min-height:100vh;
-margin:0;
-padding:20px;
+    margin:0;
+    padding:20px;
+    background:url("background.jpg");
+    background-size:cover;
+    background-position:center;
+    color:white;
+    font-family:tahoma;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
 }
-
 .login-box,#content{
 background:#222;
 padding:30px;
